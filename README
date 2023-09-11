@@ -1,0 +1,27 @@
+p "Quieres ingresar como jugador o creador?"
+
+Ingreso como jugador
+
+1 = Crear array con los colores
+
+# hacer tablero
+
+#contador de intentos
+
+#meter todo en un for 
+
+2 = ese mismo array hacerlo random
+
+3 = pedirle al usuario que ingrese los datos
+
+#como queramos hacerlo ==   ".split" preguntando uno por uno ejemplo 1= primer color 2= segundo color 3= tercer color "<<" es igual => push
+
+4 = comparamos posiciones se puede hacer a pata con if y else nada mas o con un each_with_index do |element,index| end
+
+5= hacerlo push al tablero
+
+6 = imprimir el tablero
+
+Ingreso como creador
+
+lo mismo del aterior solo que haciendole el ramdon a la respuesta del usuario
